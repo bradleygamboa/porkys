@@ -1,0 +1,29 @@
+@font-face {
+  font-family: porkys;
+  src: url("../fonts/porkys.TTF");
+}
+
+#address {
+  color: red;
+  font-size: 2em;
+  /*text-shadow: 4px 4px 0 white, -1px -1px 0 white, 1px -1px 0 white, -1px 1px 0 white, 1px 1px 0 white;*/
+}
+
+#titleFont {
+  color: red;
+  font-family: porkys;
+  font-size: 10em;
+  text-shadow: 4px 4px 0 white, -1px -1px 0 white, 1px -1px 0 white, -1px 1px 0 white, 1px 1px 0 white;
+}
+
+#carWash {
+  color: red;
+  font-size: 4em;
+  /*text-shadow: 4px 4px 0 white, -1px -1px 0 white, 1px -1px 0 white, -1px 1px 0 white, 1px 1px 0 white;*/
+}
+
+#cityState {
+  color: red;
+  font-size: 2em;
+  /*text-shadow: 4px 4px 0 white, -1px -1px 0 white, 1px -1px 0 white, -1px 1px 0 white, 1px 1px 0 white;*/
+}
